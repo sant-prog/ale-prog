@@ -8,7 +8,6 @@
     <li align="left"> <strong>  👀 I’m currently working at: </strong> Igoal Tecnologia!
    </li>
   -->
-    <li align="left"> <strong> 📫 How to reach me: </strong> alessandro.s1307@gmail.com
     </li>
  </ul> 
 <br>
