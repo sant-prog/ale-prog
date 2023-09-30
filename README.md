@@ -1,4 +1,4 @@
-# Hello there, welcome to my Gitbhub Profile!
+# Hello there, welcome to my Gitbhub Profile! 💻✨
  <ul>
    <li align="left"> <strong> 🤓 Currently studying: </strong> web development!  
    </li>
@@ -14,5 +14,3 @@
 <br>
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,java,js,cpp,php,html,git,mysql,sqlite,regex,linux,blender,vscode)](https://skills.thijs.gg)
-
-### Welcome to my Github Profile! Let's code some amazing code together! 💻✨
