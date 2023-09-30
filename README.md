@@ -1,5 +1,4 @@
-# Hi! Nice to meet you! I'm Alessandro Sant'Anna!
-
+# Hello there, welcome to my Gitbhub Profile!
  <ul>
    <li align="left"> <strong> 🤓 Currently studying: </strong> web development!  
    </li>
