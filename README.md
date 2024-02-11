@@ -1,6 +1,6 @@
 # Hello there, welcome to my Gitbhub Profile! 💻✨
  <ul>
-   <li align="left"> <strong> 🤓 Currently studying: </strong> web development!  
+   <li align="left"> <strong> 🤓 Currently studying: </strong> Mainframe and IBM Products / Back-End Developping (C# and Java)!  
    </li>
    <li align="left"> <strong>  	👨‍🎓: student at uni:  </strong> PUC-RS
    </li>
@@ -12,4 +12,4 @@
  </ul> 
 <br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,java,js,cpp,php,html,git,mysql,sqlite,regex,linux,blender,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java, csharp, html, css, js, php)](https://skills.thijs.gg)
